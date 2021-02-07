@@ -26,20 +26,20 @@ Project is created with:
    - *tokenize*  
   takes input and adds space around parenthesis to break down the instruction   
         for interpretion  
-   -*read_from_tokens*  
+   -  *read_from_tokens*  
        checks for EOF errors and also helps to process tokens  
-   -*atom*  
+   -  *atom*  
   helps to classify tokens  
-   -*parse*  
+   -  *parse*  
   runs the above functions   
   
 2.Execution    
-  -*eval*  
+  -  *eval*  
   Evaluates the instructions and performs the corresponding operation  
-  -*schemestr*  
+  -  *schemestr*  
   for formatting the output  
     convert python object into a scheme readable object  
-  -*repl*\
+  -  *repl*\
   Read-Evaluate-Print-Loop  
 ## Environment  
 >
